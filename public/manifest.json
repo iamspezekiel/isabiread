@@ -1,0 +1,16 @@
+{
+  "name": "IsabiRead",
+  "short_name": "IsabiRead",
+  "description": "Upload your PDF files and get them converted to high-quality audio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#454e91",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
