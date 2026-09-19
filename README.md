@@ -4,7 +4,7 @@
 
 IsabiRead AI is a browser-first web app that converts documents and text into speech you can listen to anywhere — while commuting, working out, or resting your eyes. It stands apart with local voices (including Nigerian voices), multi-speaker dialogue detection, and a Voice Lab for creating custom voices — and it's free to start, with no account required to convert.
 
-**Live site:** [isabiread.icu](https://isabiread.icu)
+**Live site:** [isabiread.vercel.app](https://isabiread.vercel.app)
 
 ---
 
